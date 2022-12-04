@@ -25,6 +25,7 @@
                         <div class="row">
                           <div class="col-xs-10 col-xs-offset-1">
                             <p class="text-center lead">Selecciona un metodo de pago</p>
+                            <button><a href="pagopaypal.php">Pago con PayPal</a></button>
                             <img class="img-responsive center-all-contens" src="assets/img/credit-card.png">
                             <p class="text-center">
                               <button class="btn btn-lg btn-raised btn-success btn-block" data-toggle="modal" data-target="#PagoModalTran">Transaccion Bancaria</button>
